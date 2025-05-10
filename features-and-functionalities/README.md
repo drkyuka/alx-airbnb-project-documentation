@@ -1,7 +1,5 @@
 # alx-airbnb-project-documentation
 
----
-
 # 🔑 Core Functionalities
 The backend for the Airbnb Clone must enable key features that align with the functionalities of a rental marketplace.
 
@@ -55,7 +53,6 @@ The backend for the Airbnb Clone must enable key features that align with the fu
 - Bookings
 - Payments
 
----
 
 # 🛠️ Technical Requirements
 ## 1. Database Management
@@ -65,7 +62,7 @@ The backend for the Airbnb Clone must enable key features that align with the fu
 - Properties
 - Bookings
 - Reviews
-Payments
+- Payments
 ## 2. API Development
 - Use RESTful APIs to expose backend functionalities to the frontend.
 ### Include proper HTTP methods and status codes for:
@@ -87,7 +84,6 @@ Payments
 ## 6. Error Handling and Logging
 - Implement global error handling for APIs.
 
----
 
 # 🚀 Non-Functional Requirements
 ## 1. Scalability
