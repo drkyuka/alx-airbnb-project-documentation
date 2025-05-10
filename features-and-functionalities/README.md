@@ -1,5 +1,8 @@
 # alx-airbnb-project-documentation
 
+## 🖼️ Visualize the airbnb features
+<img src="/features-and-functionalities/backend_features.png" alt="airbnb features">
+
 # 🔑 Core Functionalities
 The backend for the Airbnb Clone must enable key features that align with the functionalities of a rental marketplace.
 
